@@ -80,7 +80,7 @@ class Miner(BaseMinerNeuron):
                 "model_version": "9",
                 "framework": "onnx-mlp",
                 "license": "MIT",
-                "repo_url": "https://github.com/tomkaba/poker44-miner-gen9v2",
+                "repo_url": "https://github.com/tomkaba/gen9_aafrwrtcwct20",
                 "repo_commit": _git_commit,
                 "notes": "Poker44 ONNX MLP 20-feature chunk-level classifier.",
                 "open_source": True,
