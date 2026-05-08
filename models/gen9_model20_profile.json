@@ -1,0 +1,9 @@
+{
+  "model_name": "gen9_model20",
+  "model_version": "9",
+  "n_inputs": 20,
+  "hidden_layers": [64, 32, 16],
+  "threshold": 0.5,
+  "val_accuracy": 1.0,
+  "prescale": 8.0
+}
